@@ -1,3 +1,11 @@
+# custom
+config.toml
+start-env.py
+**/logs
+.vscode
+**/temp
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
